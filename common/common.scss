@@ -9,6 +9,10 @@
 $item-height: 50px;
 $icon-opacity: 0.7;
 
+.title{
+ display:none; 
+}
+
 .top-menu {
   background: fallback($Menu_background, $primary);
   width: 100%;

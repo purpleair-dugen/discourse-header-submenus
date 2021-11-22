@@ -6,7 +6,7 @@
   }
 }
 
-$item-height: 40px;
+$item-height: 50px;
 $icon-opacity: 0.7;
 
 .top-menu {
@@ -17,7 +17,7 @@ $icon-opacity: 0.7;
     display: flex;
     align-items: center;
     justify-content: if($Invert_position == "true", flex-end, flex-start);
-    padding-top: .3em;
+    
   }
 
   .menu-items {
